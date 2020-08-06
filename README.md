@@ -1,2 +1,2 @@
-# webiste
+# website
 My personal website
