@@ -1,0 +1,14 @@
+---
+#title: "About"
+#author: "Mychala Walker"
+#date: "8/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### About
+
+sfboorwr ejrbowjbroubqwr oeqrbfojqroqr oeurbfojqbroubq qorbfoqjrofuq qojrbfqojbrf qorbfojqroq ouqbrojfbqpirw oqwrojbqwrufh ouqwbrfojqwrf oqwrwfoqwrpf hqw0roqjw roqhwqrfqwkr h0inqr f 0iqwnrpfihqr owbqrofhqwr 9qrfoqwr jrfqwrrf oqwroq qrofjq ojqroqrf ojwrboq oqbroq oqbrofq oqjbrfouqhuhr orouhoqurq oqrouqrjjqrf qoroqbrjkfqj 

@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Resume</title>
+        <link rel="canonical" href="/resume/">
+        <style>
+
+    html body {
+        font-family: 'Mina', sans-serif;
+        background-color: #f5f5f5;
+    }
+
+    :root {
+        --accent: #386890;
+        --border-width:  0 ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mina">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=VT323">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/lakeside-light.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+
+
+<script>
+$(document).ready(function(){
+    
+  var input = $('#night-mode-toggle');
+  var container = $('#bigbody');
+  var stat = $('#button-status');
+  
+  container.toggleClass(localStorage.toggled);
+  stat.bootstrapToggle(localStorage.button).change();
+  
+  input.on('click', function() {
+      if (localStorage.toggled != "-nightmode" ) {
+          container.toggleClass("-nightmode", true );
+          localStorage.toggled = "-nightmode";
+          localStorage.button = "on";
+       } else {
+          container.toggleClass("-nightmode", false );
+          localStorage.toggled = "";
+          localStorage.button = "off"
+       }
+  })
+});
+</script>
+ <meta name="generator" content="Hugo 0.74.3" />
+        <link href="" rel="alternate" type="application/rss+xml" title="Mychala Walker" />
+        <link href="" rel="feed" type="application/rss+xml" title="Mychala Walker" />
+        
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/img/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-config" content="/img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    
+    <meta property="og:title" content="Resume">
+    <meta property="og:type" content="article">
+      
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:image" content="/favicon/headshot.jpeg" >
+      
+    <meta property="description" content="">
+    <meta property="og:description" content="">
+    
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:site" content="">
+    
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body id = "bigbody">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">Resume</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/about/">About</a></li>
+                            
+                                <li><a href="/resume/">Resume</a></li>
+                            
+                                <li><a href="/projects/">Projects</a></li>
+                            
+                                <li><a href="/blog/">Blog</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:walkerme19@gmail.com"><i class="far fa-envelope"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/mew4kc"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/mychala-walker/"><i class="fab fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.vsu.edu/"><i class="fas fa-graduation-cap"></i></a></li>
+                            
+                            <li id="night-mode-toggle">
+    <input type="checkbox" id = "button-status"
+        data-toggle="toggle"
+        data-width = "10"
+        data-height = "1"
+        data-on="<i class='far fa-moon fa-lg'></i>"
+        data-off= "<i class='far fa-sun fa-lg'></i>"
+        data-style="ios"
+        data-onstyle = "default">
+</li>
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+      
+    
+
+    <h4><a href="/resume/">Resume</a></h4>
+    <h5>January 1, 0001 - 4 minutes</h5>
+    <h5></h5>
+
+    
+    
+
+</div>
+
+
+    <br> <div class="text-justify">
+
+
+<p>Mychala Walker
+Current Address: 1 Hayden St Petersburg, VA 23806
+Permanent Address: 15279 Valley Stream Dr. Woodbridge, VA 22191
+<a href="mailto:walkerme19@gmail.com" class="email">walkerme19@gmail.com</a>
+www.linkedin.com/in/mychala-walker</p>
+<p>EDUCATION
+Virginia State University, Expected May 2022 Petersburg, VA
+Bachelor of Science in Political Science; 4.0/4.0 GPA
+Minor in Business Management/ Public Administration
+Presidential Scholar, Honors Program Student
+Relevant Coursework: State and Local Government, US Government, Contemporary Political Thought, Comparative
+Government, Constitutional and Civil Liberties, International Business, Introduction to Git, Introduction to R, Analyzing US
+Census Data in R
+Leadership Experience:
+Vice President of Rainbow Soul, 2019 Student Honors Council member, 2019 - 2020  Student Senate, Honors Program
+Representative, 2019 -2020
+Activities &amp; Honors:
+Dean’s List; 2019  Virginia State University, Presidential Scholar, 2018 – 2022  Virginia State University, Outstanding
+Freshman of the Year, 2019  Virginia State University Political Science Department, Rosa Parks Award for Academic
+Excellence, 2019  Andrew Young Student Leader, Andrew Young Emerging Leaders, 2019  National Society of Leadership
+and Success, Sigma Alpha Pi  Thurgood Marshall College Fund, TMCF Scholar, 2019  CIA Scholar, 2019 Alpha Kappa
+Alpha Pi Rho Omega Chapter, HBCU for Life Scholarship Recipient, 2019Virginia State University, Outstanding Sophomore of
+the Year, 2020 Virginia21, VA21 Student Leader, 2020 X-Culture, X-Culture Scholar, 2020 X-Culture, Best Team Award,
+2020 Educational Testing Service, TMCF-ETS Scholarship Recipient, 2020
+CULTURAL IMMERSION
+• Traveled to Greece, Italy, and Spain in Summer of 2019
+• Engaged in local communities, increasing cultural acumen
+• Practiced Spanish and Greek fluency by interacting with local businesses
+• Developed cultural awareness through multiple tours
+• Acquired insight into European and Peruvian beliefs and religions
+• Gained knowledge in European countries and South American countries
+WORK &amp; LEADERSHIP EXPERIENCE
+January 2019 – February 2019 Office of State Senator Jeremy McPike Richmond, VA
+Intern
+An internship position where I worked in the Virginia General Assembly and was responsible conducting research, speaking
+with constituents, attending legislative meetings, and completing general office tasks
+• Replied electronically weekly to 35 citizens’ issues, questions, and concerns using Microsoft Word, Google Drive, and
+Gmail
+• Recorded all daily 5 inbound and outbound pieces of mail and 15 citizen visits to the office per week.
+• Strengthened and enhanced subject matter knowledge of senate processes, procedures and content through active
+participation in Virginia Senate Committee meetings.
+• Completed policy research on dozens of bills to be used when presented to the Senate floor
+January 2018 – January 2019 Prince William County Democratic Committee Dale City, VA
+Executive Assistant
+An assistance position where I was responsible for helping with political campaigns, lobbying, event planning and general office
+&amp; field projects
+• Replied to constituent concerns, questions, and issues
+• Sorted and Organized lists of bills and Constituent concerns
+• Prepared a community outreach event within Prince William County
+• Drafted dozens of email blasts and created many mailers to be sent out to constituents
+• Participated in weekly trainings pertaining to marketing and campaigning
+• Worked closely behind the scenes of multiple local and state campaigns, including local school board chair
+• Completed Policy Research
+RESEARCH EXPERIENCE
+June 2020 – August 2020 Laney Graduate School-Summer Opportunity for Academic Research Remote
+Research Student
+Research program giving students the opportunity to explore, experience, and conduct full time research
+• Attended weekly trainings and lectures focused on professional development, research ethics, and graduate school
+admissions
+• Participated in weekly research seminars, trainings, workshops, and discussion groups
+• Strengthened my graduate school application by completing mentor-reviewed assignments relating to graduate school
+applications and courses
+• Participated in weekly lectures and workshops regarding graduate programs, doctorate programs, and various careers
+June 2020 – August 2020 Data Science for the Public Good Remote
+Research Student
+Research group focused on promoting Community Learning through Driven Discovery
+• Completed research on various topics including incarceration and pubic health
+• Attended daily trainings and lectures focused on data ethics and governance, data analysis, coding, and presentation
+• Participated in daily exercises to strengthen knowledge in data science
+• Analyzed data from various government data sources and created data visualizations
+• Analyzed policies and devised strategies to improve current programs and systems
+• Completed online courses on DataCamp and CITI Program
+September 2019 – February 2020 VSU Honors Program Research Group Petersburg, VA
+Research Student
+Research group focused on teaching students how to properly perform research
+• Attended weekly meetings hosted by honors program professors that taught us the techniques of research
+• Participated in weekly research check-in’s where I presented my research progress to my advisors
+• Completed research poster on the voting habits of college students
+• Selected to participate and present in the Virginias Collegiate Honors Council 2020 Spring Honors Conference
+Walker, Mychala. “The consistency of voting habits among college students.” Virginias Collegiate Honors Council 2020
+Honors Conference, Richmond, VA, April 2020. Conference Canceled.
+February 2019 – June 2019 HBCU Research Fellowship Richmond, VA
+Research Scholar
+Research Fellowship focused on archiving racial narratives within higher education materials
+• Searched through dozens of high school and college yearbooks
+• Spent hours completing research and archive training
+• Featured on numerous media outlets including Vice News</p>
+</div>
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+</main>
+
+        <footer id = "bigfooter">
+            <div style = "padding:15px;">
+                <p>Powered by <a href="https://gohugo.io">Hugo</a>. Themed by <a href="https://github.com/nathancday/min_night">min_night</a>.
+                </p>
+                <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"
+                title="Creative Commons Attribution 4.0 International license">
+                <i class="fab fa-creative-commons" aria-hidden="true"></i> Attribution 4.0 International license
+                </a>
+            </div>
+        </footer>
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+          gtag('config', '');
+        </script>
+       
+    </body>
+
+</html>
+
