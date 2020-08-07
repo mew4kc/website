@@ -1,0 +1,9 @@
+---
+title: Welcome to my website!
+author: Mychala Walker
+date: '2020-08-07'
+slug: welcome-to-my-website
+categories: []
+tags: []
+---
+Hello! Welcome to my website.
