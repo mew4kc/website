@@ -3,6 +3,8 @@ title: "The Consistency of Voting Habits among College Students"
 author: "Mychala Walker"
 date: "8/7/2020"
 output: html_document
+tags: []
+weight: 1
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +21,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-#### Abstract: <br>
+#### <b> Author(s): <br>
+#### Mychala Walker <br>
+
+<br>
+
+#### <b> Abstract: <br>
 For generations, it was suggested that college students do not vote, despite research suggesting that voting is habit forming and youth voting can determine the trend for future civic engagement. The purpose of this project is to determine if voter disenfranchisement is the cause of such a lack of civil engagement among college students. I believed that college students did not vote because of the unclear laws and regulations regarding voting as a student. To collect data, I surveyed 71 Virginia State University students of various classifications and majors. Questions regarding demographics, voter registration status, and past voting history were asked to determine the participants’ levels of voter participation or lack thereof. Based on this study, it is suggested that college students are not disenfranchised, but instead choosing not to vote. This research should be used to improve the tactics used to encourage voter participation among college students.
 
 <br>

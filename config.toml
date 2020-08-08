@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     logo = "favicon/headshot.jpeg"
 #    twitterAuthor = "@natedayta"
     githubUsername = "mew4kc"
-    accent = "#023e8a" # dark colors do best
+    accent = "#023e8a" # dark colors do best; coolors.co for more colors
     backgroundColor = "#f5f5f5"
     font = "Noto Sans JP" # should match the name on Google Fonts!
     highlight = true
@@ -70,6 +70,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.vsu.edu/"
+    url = "http://www.vsu.edu/search.php?q=Mychala%20Walker"
     name = "fas fa-graduation-cap"
     weight = 4

@@ -11,16 +11,29 @@
     
     
     <item>
-      <title>Demonstrating the value of the Appomattox Trail</title>
-      <link>/projects/folar/</link>
+      <title>The Consistency of Voting Habits among College Students</title>
+      <link>/projects/voting-college-students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/folar/</guid>
-      <description> Title: Demonstrating the value of the Appomattox Trail
+      <guid>/projects/voting-college-students/</guid>
+      <description>Title: The Consistency of Voting Habits among College Students 
+ Date: 4-1-2020 
+ Author(s): Mychala Walker 
+ Abstract: For generations, it was suggested that college students do not vote, despite research suggesting that voting is habit forming and youth voting can determine the trend for future civic engagement. The purpose of this project is to determine if voter disenfranchisement is the cause of such a lack of civil engagement among college students.</description>
+    </item>
+    
+    <item>
+      <title>The Social Determinants of Incarceration and Recidivism</title>
+      <link>/projects/incarceration-recidivsm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/incarceration-recidivsm/</guid>
+      <description>Title: The Social Determinants of Incarceration and Recidivism
+ Website: https://dspg-young-scholars-program.github.io/dspg20halifax/
+
  Date: 8-7-2020
- Abstract: 
- Presentations: -2020 Data Science for Public Good Symposium
-</description>
+ Author(s): Riya Berry, Ellen Graham, Finn Roberts, Mychala Walker 
+ Abstract: Incarceration and recidivism are very prominent issues in the United States. The US incarcerates more people per capita than any other country in the world. The rates are disproportionate for the African American and Hispanic communities.</description>
     </item>
     
     <item>
@@ -31,32 +44,21 @@
       <guid>/projects/pwc/</guid>
       <description> Title: Factors contributing to Health Care Inequities in Petersburg, VA
  Date: 8-7-2020
+ Author(s): Kyra Faison, Kyle Jacobs, Courtney Lawson, Jaida Robinson, Mousa Toure, Mychala Walker 
  Abstract: 
  Presentations: -2020 Data Science for Public Good Symposium
 </description>
     </item>
     
     <item>
-      <title>The Consistency of Voting Habits among College Students</title>
-      <link>/projects/voting-college-students/</link>
+      <title>Demonstrating the value of the Appomattox Trail</title>
+      <link>/projects/folar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/voting-college-students/</guid>
-      <description>Title: The Consistency of Voting Habits among College Students 
- Date: 4-1-2020 
-Abstract: For generations, it was suggested that college students do not vote, despite research suggesting that voting is habit forming and youth voting can determine the trend for future civic engagement. The purpose of this project is to determine if voter disenfranchisement is the cause of such a lack of civil engagement among college students.</description>
-    </item>
-    
-    <item>
-      <title>The Social Determinants of Incarceration and Recidivism</title>
-      <link>/projects/incarceration-recidivsm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/incarceration-recidivsm/</guid>
-      <description> Title: The Social Determinants of Incarceration and Recidivism
- Website: https://dspg-young-scholars-program.github.io/dspg20halifax/
-
+      <guid>/projects/folar/</guid>
+      <description> Title: Demonstrating the value of the Appomattox Trail
  Date: 8-7-2020
+ Author(s): Kyra Faison, Kyle Jacobs, Courtney Lawson, Jaida Robinson, Mousa Toure, Mychala Walker 
  Abstract: 
  Presentations: -2020 Data Science for Public Good Symposium
 </description>

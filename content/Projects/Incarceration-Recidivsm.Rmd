@@ -3,6 +3,8 @@ title: "The Social Determinants of Incarceration and Recidivism"
 author: "Mychala Walker"
 date: "8/8/2020"
 output: html_document
+tags: []
+weight: 2
 ---
 
 ```{r setup, include=FALSE}
@@ -24,7 +26,13 @@ https://dspg-young-scholars-program.github.io/dspg20halifax/
 
 <br>
 
+#### <b> Author(s): <br>
+#### Riya Berry, Ellen Graham, Finn Roberts, Mychala Walker <br>
+
+<br>
+
 #### <b> Abstract: <br>
+Incarceration and recidivism are very prominent issues in the United States. The US incarcerates more people per capita than any other country in the world. The rates are disproportionate for the African American and Hispanic communities. Incarceration is also extremely costly as the United States spends about $60 -$80 billion per year on state and federal prison costs. In conjunction with Halifax County policymakers, our team wanted to look into how incarceration and recidivism affects Halifax County and any social factors that many result in incarceration. We learned that Halifax County spends roughly $2.6 million, or $21 thousand per inmate, on corrections. For this project, we looked into four factors: housing, employment, substance abuse, and family structure. Overall, we found many factors that could encourage incarceration and came up with a few policy suggestions which could combat these issues. This research could be a suitable stepping stone to any incarceration research, however would be better for research dealing with rural or small counties. 
 
 <br>
 

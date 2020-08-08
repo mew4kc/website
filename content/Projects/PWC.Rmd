@@ -3,6 +3,8 @@ title: "Factors contributing to Health Care Inequities in Petersburg, VA"
 author: "Mychala Walker"
 date: "8/8/2020"
 output: html_document
+tags: []
+weight: 3
 ---
 
 ```{r setup, include=FALSE}
@@ -18,6 +20,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### <b> Date: <br>
 #### 8-7-2020
+
+<br>
+
+#### <b> Author(s): <br>
+#### Kyra Faison, Kyle Jacobs, Courtney Lawson, Jaida Robinson, Mousa Toure, Mychala Walker <br>
 
 <br>
 

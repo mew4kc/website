@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/projects/voting-college-students/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/incarceration-recidivsm/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/pwc/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/folar/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
@@ -30,27 +46,11 @@
   </url>
   
   <url>
-    <loc>/projects/folar/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/pwc/</loc>
-  </url>
-  
-  <url>
     <loc>/projects/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/voting-college-students/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/incarceration-recidivsm/</loc>
   </url>
   
 </urlset>
