@@ -27,6 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 #### <b> Abstract: <br>
+Friends of the Lower Appomattox River (FOLAR) partnered with the Virginia State University DSPG team to show the value of the Appomattox River through economic and social means. Being that the current trail runs through the counties of Chesterfield, Dinwiddie and Prince George, and the cities of Colonial Heights, Hopewell and Petersburg we investigated all of these areas but our main area of focus was Petersburg. When researching we broke all of the potential factors down into four main topics: Policy, Health, Transportation, and Economy. We found that while there is high access to parks and trails, crime and safety concerns cause low usage among residents. Low usage can result in limited spending from tourism and retail activity. Overall, we found that with policy and safety changes the Appomattox River trail has the potential to result in health and economic benefits for its surrounding areas. 
 
 <br>
 

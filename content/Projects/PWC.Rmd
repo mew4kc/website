@@ -29,6 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 #### <b> Abstract: <br>
+Petersburg, VA is a city 20 miles south of Richmond, VA that is stricken with poverty, crime, low health outcomes, food desert status, and other poor demographic features. The Petersburg Wellness Consortium called on Virginia State University DSPG team to investigate factors that negatively affect health outcomes in Petersburg. Ultimately, we investigated numerous factors across five topics: Policy, Health Services, Biology, Individual, and Social. We utilized the US Census and Open Street Map data among other sources to paint a vivid picture of Petersburg. We then used that data to generalize and make recommendations regarding health outcomes. Our greatest finding was that low access to health services and healthy food options may have been the largest contributing factor to poor health outcomes. 
 
 <br>
 
