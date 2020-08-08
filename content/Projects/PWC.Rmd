@@ -1,0 +1,29 @@
+---
+title: "Factors contributing to Health Care Inequities in Petersburg, VA"
+author: "Mychala Walker"
+date: "8/8/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### <b> Title: <br>
+#### Factors contributing to Health Care Inequities in Petersburg, VA
+
+
+<br>
+
+
+#### <b> Date: <br>
+#### 8-7-2020
+
+<br>
+
+#### <b> Abstract: <br>
+
+<br>
+
+#### <b> Presentations: <br>
+-[2020 Data Science for Public Good Symposium](https://biocomplexity.virginia.edu/events/data-science-public-good-forum)

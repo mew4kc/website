@@ -1,0 +1,32 @@
+---
+title: "The Social Determinants of Incarceration and Recidivism"
+author: "Mychala Walker"
+date: "8/8/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### <b> Title: <br>
+#### The Social Determinants of Incarceration and Recidivism
+
+<br>
+
+#### <b> Website: <br>
+https://dspg-young-scholars-program.github.io/dspg20halifax/
+
+<br>
+
+#### <b> Date: <br>
+#### 8-7-2020
+
+<br>
+
+#### <b> Abstract: <br>
+
+<br>
+
+#### <b> Presentations: <br>
+-[2020 Data Science for Public Good Symposium](https://biocomplexity.virginia.edu/events/data-science-public-good-forum)
