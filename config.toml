@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Mychala Walker"
-description = "Junior Political Science Major at Virginia State University."
+description = "Junior Political Science Major at Virginia State University"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Mychala Walker"
-    description = "Junior Political Science Student at Virginia State University."
+    description = "Junior Political Science Student at Virginia State University"
     logo = "favicon/headshot.jpeg"
 #    twitterAuthor = "@natedayta"
     githubUsername = "mew4kc"
