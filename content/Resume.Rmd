@@ -9,105 +9,107 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Mychala Walker
-Current Address: 1 Hayden St Petersburg, VA 23806
-Permanent Address: 15279 Valley Stream Dr. Woodbridge, VA 22191
-walkerme19@gmail.com
-www.linkedin.com/in/mychala-walker
+#### <b> EDUCATION </b> <br>
+Virginia State University, 4.0/4.0 GPA <br> 
+Expected May 2022 Petersburg, VA <br>
+Bachelor of Science in Political Science <br>
+Minor in Business Management/ Public Administration <br>
+Honors Program Student
 
-EDUCATION
-Virginia State University, Expected May 2022 Petersburg, VA
-Bachelor of Science in Political Science; 4.0/4.0 GPA
-Minor in Business Management/ Public Administration
-Presidential Scholar, Honors Program Student
+#### <b> Relevant Coursework: </b> <br>
+State and Local Government, US Government, Contemporary Political Thought, Comparative Government, Constitutional and Civil Liberties, International Business, Introduction to Git, Introduction to R, Analyzing US Census Data in R
 
-Relevant Coursework: State and Local Government, US Government, Contemporary Political Thought, Comparative
-Government, Constitutional and Civil Liberties, International Business, Introduction to Git, Introduction to R, Analyzing US
-Census Data in R
+#### <b> Leadership Experience: </b> <br>
+- Vice President of Rainbow Soul, 2019 <br>
+- Student Honors Council member, 2019 - 2020 <br>
+- Student Senate, Honors Program Representative, 2019 -2020 <br>
 
-Leadership Experience:
-Vice President of Rainbow Soul, 2019 Student Honors Council member, 2019 - 2020  Student Senate, Honors Program
-Representative, 2019 -2020
-Activities & Honors:
-Dean’s List; 2019  Virginia State University, Presidential Scholar, 2018 – 2022  Virginia State University, Outstanding
-Freshman of the Year, 2019  Virginia State University Political Science Department, Rosa Parks Award for Academic
-Excellence, 2019  Andrew Young Student Leader, Andrew Young Emerging Leaders, 2019  National Society of Leadership
-and Success, Sigma Alpha Pi  Thurgood Marshall College Fund, TMCF Scholar, 2019  CIA Scholar, 2019 Alpha Kappa
-Alpha Pi Rho Omega Chapter, HBCU for Life Scholarship Recipient, 2019Virginia State University, Outstanding Sophomore of
-the Year, 2020 Virginia21, VA21 Student Leader, 2020 X-Culture, X-Culture Scholar, 2020 X-Culture, Best Team Award,
-2020 Educational Testing Service, TMCF-ETS Scholarship Recipient, 2020
+#### <b> Activities & Honors: </b> <br>
+- Virginia State University, Presidential Scholar, 2018 – 2022 <br>
+- Virginia State University, Outstanding Freshman of the Year, 2019 <br>
+- Virginia State University Political Science Department, Rosa Parks Award for Academic Excellence, 2019 <br>
+- Andrew Young Student Leader, Andrew Young Emerging Leaders, 2019 <br>
+- National Society of Leadership and Success, Sigma Alpha Pi <br>
+- Thurgood Marshall College Fund, TMCF Scholar, 2019  <br>
+- Alpha Kappa Alpha Pi Rho Omega Chapter, HBCU for Life Scholarship Recipient, 2019 <br> 
+- Virginia State University, Outstanding Sophomore of
+the Year, 2020 <br>
+- Virginia21, VA21 Student Leader, 2020 <br>
+- X-Culture, X-Culture Scholar, 2020 <br>
+- X-Culture, Best Team Award, 2020 <br>
+- Educational Testing Service, TMCF-ETS Scholarship Recipient, 2020
 <br>
 <br>
-CULTURAL IMMERSION
-• Traveled to Greece, Italy, and Spain in Summer of 2019
-• Engaged in local communities, increasing cultural acumen
-• Practiced Spanish and Greek fluency by interacting with local businesses
-• Developed cultural awareness through multiple tours
-• Acquired insight into European and Peruvian beliefs and religions
-• Gained knowledge in European countries and South American countries
+
+#### <b> CULTURAL IMMERSION </b>
+- Traveled to Greece, Italy, and Spain in Summer of 2019 <br>
+- Engaged in local communities, increasing cultural acumen <br>
+- Practiced Spanish and Greek fluency by interacting with local businesses <br>
+- Developed cultural awareness through multiple tours <br>
+- Acquired insight into European and Peruvian beliefs and religions <br>
+- Gained knowledge in European countries and South American countries 
 <br>
 <br>
-WORK & LEADERSHIP EXPERIENCE
 
-January 2019 – February 2019 Office of State Senator Jeremy McPike Richmond, VA
-Intern
-An internship position where I worked in the Virginia General Assembly and was responsible conducting research, speaking
-with constituents, attending legislative meetings, and completing general office tasks
-• Replied electronically weekly to 35 citizens' issues, questions, and concerns using Microsoft Word, Google Drive, and
-Gmail
-• Recorded all daily 5 inbound and outbound pieces of mail and 15 citizen visits to the office per week.
-• Strengthened and enhanced subject matter knowledge of senate processes, procedures and content through active
-participation in Virginia Senate Committee meetings.
-• Completed policy research on dozens of bills to be used when presented to the Senate floor
+#### <b> WORK & LEADERSHIP EXPERIENCE </b>
 
-January 2018 – January 2019 Prince William County Democratic Committee Dale City, VA
-Executive Assistant
-An assistance position where I was responsible for helping with political campaigns, lobbying, event planning and general office
-& field projects
-• Replied to constituent concerns, questions, and issues
-• Sorted and Organized lists of bills and Constituent concerns
-• Prepared a community outreach event within Prince William County
-• Drafted dozens of email blasts and created many mailers to be sent out to constituents
-• Participated in weekly trainings pertaining to marketing and campaigning
-• Worked closely behind the scenes of multiple local and state campaigns, including local school board chair
-• Completed Policy Research
+<font size = "3"> <i> January 2019 – February 2019, Office of State Senator Jeremy McPike,  Richmond, VA </i> <br> </font>
+Intern <br>
+An internship position where I worked in the Virginia General Assembly and was responsible conducting research, speaking with constituents, attending legislative meetings, and completing general office tasks <br>
+- Replied electronically weekly to 35 citizens' issues, questions, and concerns using Microsoft Word, Google Drive, and Gmail <br>
+- Recorded all daily 5 inbound and outbound pieces of mail and 15 citizen visits to the office per week. <br>
+- Strengthened and enhanced subject matter knowledge of senate processes, procedures and content through active participation in Virginia Senate Committee meetings. <br>
+- Completed policy research on dozens of bills to be used when presented to the Senate floor
 <br>
 <br>
-RESEARCH EXPERIENCE
+<font size = "3"> <i> January 2018 – January 2019, Prince William County Democratic Committee, Dale City, VA </i> </font> <br>
+Executive Assistant <br>
+An assistance position where I was responsible for helping with political campaigns, lobbying, event planning and general office & field projects <br>
+- Replied to constituent concerns, questions, and issues <br>
+- Sorted and Organized lists of bills and Constituent concerns <br>
+- Prepared a community outreach event within Prince William County <br>
+- Drafted dozens of email blasts and created many mailers to be sent out to constituents <br>
+- Participated in weekly trainings pertaining to marketing and campaigning <br>
+- Worked closely behind the scenes of multiple local and state campaigns, including local school board chair <br>
+- Completed Policy Research
+<br>
+<br>
 
-June 2020 – August 2020 Laney Graduate School-Summer Opportunity for Academic Research Remote
-Research Student
-Research program giving students the opportunity to explore, experience, and conduct full time research
-• Attended weekly trainings and lectures focused on professional development, research ethics, and graduate school
-admissions
-• Participated in weekly research seminars, trainings, workshops, and discussion groups
-• Strengthened my graduate school application by completing mentor-reviewed assignments relating to graduate school
-applications and courses
-• Participated in weekly lectures and workshops regarding graduate programs, doctorate programs, and various careers
-
-June 2020 – August 2020 Data Science for the Public Good Remote
-Research Student
-Research group focused on promoting Community Learning through Driven Discovery
-• Completed research on various topics including incarceration and pubic health
-• Attended daily trainings and lectures focused on data ethics and governance, data analysis, coding, and presentation
-• Participated in daily exercises to strengthen knowledge in data science
-• Analyzed data from various government data sources and created data visualizations
-• Analyzed policies and devised strategies to improve current programs and systems
-• Completed online courses on DataCamp and CITI Program
-
-September 2019 – February 2020 VSU Honors Program Research Group Petersburg, VA
-Research Student
-Research group focused on teaching students how to properly perform research
-• Attended weekly meetings hosted by honors program professors that taught us the techniques of research
-• Participated in weekly research check-in’s where I presented my research progress to my advisors
-• Completed research poster on the voting habits of college students
-• Selected to participate and present in the Virginias Collegiate Honors Council 2020 Spring Honors Conference
+#### <b> RESEARCH EXPERIENCE </b>
+<font size = "3"> <i> June 2020 – August 2020, Laney Graduate School-Summer Opportunity for Academic Research, Remote </i> </font> <br>
+Research Student <br>
+Research program giving students the opportunity to explore, experience, and conduct full time research <br>
+- Attended weekly trainings and lectures focused on professional development, research ethics, and graduate school admissions <br>
+- Participated in weekly research seminars, trainings, workshops, and discussion groups <br>
+- Strengthened my graduate school application by completing mentor-reviewed assignments relating to graduate school applications and courses <br>
+- Participated in weekly lectures and workshops regarding graduate programs, doctorate programs, and various careers 
+<br>
+<br>
+<font size = "3"> <i> June 2020 – August 2020, Data Science for the Public Good, Remote </i> </font> <br> 
+Research Student <br>
+Research group focused on promoting Community Learning through Driven Discovery <br>
+- Completed research on various topics including incarceration and pubic health <br>
+- Attended daily trainings and lectures focused on data ethics and governance, data analysis, coding, and presentation <br>
+- Participated in daily exercises to strengthen knowledge in data science <br>
+- Analyzed data from various government data sources and created data visualizations <br>
+- Analyzed policies and devised strategies to improve current programs and systems <br>
+- Completed online courses on DataCamp and CITI Program 
+<br>
+<br>
+<font size = "3"> <i> September 2019 – February 2020, VSU Honors Program Research Group, Petersburg, VA </i> <br> </font>
+Research Student <br>
+Research group focused on teaching students how to properly perform research <br>
+- Attended weekly meetings hosted by honors program professors that taught us the techniques of research <br>
+- Participated in weekly research check-in’s where I presented my research progress to my advisors <br>
+- Completed research poster on the voting habits of college students <br>
+- Selected to participate and present in the Virginias Collegiate Honors Council 2020 Spring Honors Conference <br>
 Walker, Mychala. “The consistency of voting habits among college students.” Virginias Collegiate Honors Council 2020
 Honors Conference, Richmond, VA, April 2020. Conference Canceled.
-
-February 2019 – June 2019 HBCU Research Fellowship Richmond, VA
-Research Scholar
+<br>
+<br>
+<font size = "3"> <i> February 2019 – June 2019, HBCU Research Fellowship, Richmond, VA </i> <br>
+Research Scholar <br> </font>
 Research Fellowship focused on archiving racial narratives within higher education materials
-• Searched through dozens of high school and college yearbooks
-• Spent hours completing research and archive training
-• Featured on numerous media outlets including Vice News
+- Searched through dozens of high school and college yearbooks <br>
+- Spent hours completing research and archive training <br>
+- Featured on numerous media outlets including Vice News <br>

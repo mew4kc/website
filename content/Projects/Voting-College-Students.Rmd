@@ -1,5 +1,6 @@
 ---
 title: "The Consistency of Voting Habits among College Students"
+description: ""
 author: "Mychala Walker"
 date: "8/7/2020"
 output: html_document
