@@ -39,3 +39,7 @@ Incarceration and recidivism are very prominent issues in the United States. The
 
 #### <b> Presentations: <br>
 -[2020 Data Science for Public Good Symposium](https://biocomplexity.virginia.edu/events/data-science-public-good-forum)
+<br>
+<br>
+<br>
+![Halifax Poster](/Projects/Incarceration-Recidivsm_files/Halifax.jpg)
