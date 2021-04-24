@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Mychala Walker"
-description = "Junior Political Science Major at Virginia State University"
+description = "Junior Political Science Student at Virginia State University"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -70,6 +70,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 3
 
 [[menu.icon]]
-    url = "http://www.vsu.edu/search.php?q=Mychala%20Walker"
+    url = "https://www.vsu.edu/search.php?q=Mychala+Walker#gsc.tab=0&gsc.q=%22Mychala%20Walker%22"
     name = "fas fa-graduation-cap"
     weight = 4
